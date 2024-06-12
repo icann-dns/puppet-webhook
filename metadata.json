@@ -1,0 +1,36 @@
+{
+  "name": "b4ldr-webhook",
+  "version": "0.1.0",
+  "author": "b4ldr",
+  "summary": "Configure and run webhooks binary https://github.com/adnanh/webhook",
+  "license": "Apache-2.0",
+  "source": "https://github.com/b4ldr/puppet-webhook",
+  "project_page": "https://github.com/b4ldr/puppet-webhook",
+  "issues_url": "https://github.com/b4ldr/puppet-webhook/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [
+        "11"
+      ]
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "20.04"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 7.24 < 9.0.0"
+    }
+  ],
+  "pdk-version": "3.2.0",
+  "template-url": "pdk-default#3.2.0",
+  "template-ref": "tags/3.2.0-0-gb257ef1"
+}

@@ -1,6 +1,6 @@
 {
   "name": "b4ldr-webhook",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "b4ldr",
   "summary": "Configure and run webhooks binary https://github.com/adnanh/webhook",
   "license": "Apache-2.0",
